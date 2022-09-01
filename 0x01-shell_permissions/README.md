@@ -1,1 +1,3 @@
-sets the mode of the file hello to this
+sets the mode of the file hello the same as olleh’s mode.
+
+
