@@ -1,1 +1,1 @@
-displays a confused smiley "(Ôo).
+displays a confused smiley "(Ôo)
