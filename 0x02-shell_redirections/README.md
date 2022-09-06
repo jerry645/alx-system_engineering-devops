@@ -1,1 +1,1 @@
-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+lists all the files with a .gif extension in the current directory and all its sub-directories.
